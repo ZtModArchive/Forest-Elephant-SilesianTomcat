@@ -1,0 +1,154 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <ElephantForest>Forest Elephant</ElephantForest>
+      <ElephantForest_stt>Forest elephant</ElephantForest_stt>
+      <ElephantForest_lower>the Forest elephant</ElephantForest_lower>
+      <ElephantForest_ltt>
+         <color r="255" g="248" b="178">
+            <b>Forest Elephant</b>
+         </color>
+         <br/>
+         Click to select and then place an Forest elephant, a third species elephant.
+      </ElephantForest_ltt>
+      <!--gift names-->
+      <ElephantForest_Gift>Forest Elephant Hat</ElephantForest_Gift>
+      <ElephantForest_Gift_stt>Forest elephant hat</ElephantForest_Gift_stt>
+      <ElephantForest_Gift_lower>the Forest elephant hat</ElephantForest_Gift_lower>
+      <ElephantForest_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Forest Elephant Hat</b>
+         </color>
+         <br/>Guests who enjoy watching the Forest elephant will buy this gift.
+      </ElephantForest_Gift_ltt>
+   </entityname>
+   <zoopedia_elephantforest>
+      <entry>Elephant, Forest</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/ElephantForest/ElephantForest_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/ElephantForest/ElephantForest_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+<br/>
+<cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="155" b="0">
+Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255"> Rainforest<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255"> Central Africa<br/></color>
+                  <img src="ui/icon_maplocations/Rainforest_Africa_Central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Elephants <i>(Proboscidea)</i><br/>Family: Elephants <i>(Elephantidae)</i><br/>Genus: <i>Loxodonta</i><br/>Species:<i>cyclotis</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Forest Elephant Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">It was always thought that there were two species of elephant in the world; the African savanna elephant,( Loxodonta africana) and the Asian elephant, (Elephas maximus). </color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">But now, through DNA testing, it has been discovered that there is a third species; the African forest elephant.
+</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The forest elephants look very different from savanna elephants. For one thing, they are smaller and stockier than savanna elephants.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Their ears are rounded and their tusks are straight and thin with a pinkish tinge to the ivory. The lower jaw is longer, giving the forest elephant a long, narrow face. </color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Forest elephants also live in smaller family groups. Forest elephants are also darker than savanna elephants.
+</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+                <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Dedicated for my daughters Romana and Anezka.</color>
+               
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the Forest elephant in challenge or campaign games, you must earn a 4-star zoo fame rating for your zoo.</color>
+            <p/>Forest elephants are adapted to living in dense forests. Their tusks are straight since curved ones might get caught in the underbrush and vines of the forest. They are smaller so they can move around the dense forests more easily.
+
+Not much was known about the forest elephants because tracking them was very difficult. Scientists have begun tagging forest elephants with tracking devices so they can be more easily followed. It has recently been discovered that forest elephants can have a home range of about 2,000 square kilometers (1,243 square miles).
+
+            <p/>Seventy years ago three to five million elephants inhabited Africa. Today only about 500,000 elephants remain. One third of these are forest elephants. Because there are now two separate species, there are fewer elephants of each species. Elephants in Africa are now more endangered than previously thought. The hard and pink ivory of the forest elephant is highly prized by poachers who are difficult to catch in the cover of the rainforest.  
+            
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620"> <u><color r="255" g="231" b="135">Recoloured and coded animal by Roman Kocourek-Silesian Tomcat</color></u>
+         </cell>
+      </text>
+   </zoopedia_elephantforest>
+</ZT2Strings>

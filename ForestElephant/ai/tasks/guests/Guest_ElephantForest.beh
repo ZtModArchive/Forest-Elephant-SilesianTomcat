@@ -1,0 +1,13 @@
+<BehaviorSets>
+   <BuyElephantForestGift>
+      <subjects>
+         <Guest/>
+      </subjects>
+      <behaviors>
+         <BFBehPlaySet behSet="DockGiftCart"/>
+         <BFBehAttachObject attachEntity="ElephantForest_Gift" subjectNode="Bip01 Head" detachAction="inventory" container="head_inventory"/>
+         <BFBehPlaySet behSet="Stand_Turn180"/>
+      </behaviors>
+   </BuyElephantForestGift>
+   
+</BehaviorSets>

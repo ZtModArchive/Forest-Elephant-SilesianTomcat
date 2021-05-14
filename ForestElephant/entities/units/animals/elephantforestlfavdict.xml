@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+     <ElephantForestEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\ElephantForest\ElephantForestEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </ElephantForestEmote>
+   </BFParticleDictionary>
